@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
 
 ## 📦 Installation
 
-  ### For [Google Colab](https://colab.research.google.com/github/ramimK0bir/Face-swap-from-video/blob/main/Face-swap-from-video.ipynb).
+  ### For [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/main/Face-swap-from-video.ipynb).
   #### Ensure you're running this in a Google Colab environment for optimal performance.
     !git clone https://github.com/ramim-kobir/Face-swap-from-video.git
     %cd Face-swap-from-video
