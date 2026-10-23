@@ -114,7 +114,7 @@ class videoEditor:
         out.release()
 
     def swapFaceFromVideo(self, faceImage, videoPath, outputPath, videoFps):
-        self.internalOutput = f"{uuid.uuid4()}.mp4"
+        self.internalOutput = f"{self.uuid.uuid4()}.mp4"
         self.swap_all_faces_from_video(faceImage, videoPath, 'internalOutput.mp4', videoFps)
         self.addAudioToVideo(self.internalOutput, videoPath, outputPath)
         self.os.remove(self.internalOutput)
