@@ -26,13 +26,7 @@ https://github.com/user-attachments/assets/91ce520b-aa05-412e-8119-ff276954b40e
 ### output result 
 https://github.com/user-attachments/assets/c0d901f8-4c70-43d0-ad12-bfa6f62b5a68
 ### demo tutorial
-#### obsolete new one coming soon. 
-https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
-
-
-https://github.com/user-attachments/assets/d1681495-10ed-4fa1-9a5f-7919808ff84b
-
-
+https://github.com/user-attachments/assets/59f85208-ea29-4b9e-93e1-c7a9f165b021
 
 
 
