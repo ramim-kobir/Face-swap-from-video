@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
 
 
   ### For Regular Linux System
-  
+    sudo apt update -y
     sudo apt install ffmpeg -y
     git clone https://github.com/ramim-kobir/Face-swap-from-video.git
     cd Face-swap-from-video
