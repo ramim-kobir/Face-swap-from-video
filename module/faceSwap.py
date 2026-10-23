@@ -74,7 +74,7 @@ class videoEditor :
         if not cap.isOpened():
             return {'status': 'error', 'message': 'Failed to open video file.'}
         video_fps = cap.get(self.cv2.CAP_PROP_FPS)
-        frame_interval = int(video_fps / fps)
+        frame_interval = round(video_fps / fps, 2)
         frame_count = 0
         saved_count = 0
         while True:
