@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
 
 ## 📦 Installation
 
-  ### For [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/main/Face-swap-from-video.ipynb).
+  ### For [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/1.0.0/Face-swap-from-video.ipynb).
   #### Ensure you're running this in a Google Colab environment for optimal performance.
     !git clone https://github.com/ramim-kobir/Face-swap-from-video.git
     %cd Face-swap-from-video
@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
 
 ## 🧪 Usage
 
-  ### For [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/main/Face-swap-from-video.ipynb).
+  ### For [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/1.0.0/Face-swap-from-video.ipynb).
   
     !python main.py --source testing/testing.jpg --target testing/testing.mp4  --output output.mp4 --fps 30
     
@@ -87,7 +87,7 @@ When running main.py, you can pass the following arguments to control how the fa
 
       --fps must be less than or equal to the target video’s FPS.
       Use Colab.
-## Use [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/main/Face-swap-from-video.ipynb) for a better coding experience:  
+## Use [Google Colab](https://colab.research.google.com/github/ramim-kobir/Face-swap-from-video/blob/1.0.0/Face-swap-from-video.ipynb) for a better coding experience:  
 - Faster execution with free GPU/TPU resources  
 - Easy access to Python and machine learning libraries  
 - Seamless cloud-based workflow with no local setup required  
