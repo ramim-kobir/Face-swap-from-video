@@ -49,20 +49,13 @@ https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
     %cd Face-swap-from-video
     !pip install -r requirements.txt
 
-### Additional settings for CUDA execution.
-#### Ensure you’re running it on a machine with a CUDA-enabled GPU.
-    !pip uninstall onnxruntime -y
-    !pip install onnxruntime-gpu
+
   ### For Regular Linux System
   
     sudo apt install ffmpeg -y
     git clone https://github.com/ramim-kobir/Face-swap-from-video.git
     cd Face-swap-from-video
     pip install -r requirements.txt
-### Additional settings for CUDA execution.
-#### Ensure you’re running it on a machine with a CUDA-enabled GPU.
-    pip uninstall onnxruntime -y
-    pip install onnxruntime-gpu
 
 ## 🧪 Usage
 
