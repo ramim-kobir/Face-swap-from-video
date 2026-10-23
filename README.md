@@ -13,6 +13,7 @@ This project provides a tool for swapping faces within video content using machi
 ```bash
 git clone https://github.com/ramim-kobir/Face-swap-from-video.git
 cd Face-swap-from-video
+pip install -r requirements.txt
 ```
 
 ### Google Colab
@@ -29,6 +30,13 @@ cd Face-swap-from-video
 python main.py --source testing/testing.jpg --target testing/testing.mp4 --output output.mp4 --fps 30
 ```
 
+
+### Google Colab
+
+```python
+!python main.py --source testing/testing.jpg --target testing/testing.mp4 --output output.mp4 --fps 30
+
+```
 ## Notes
 
 - Use Python 3.8 to 3.11.
