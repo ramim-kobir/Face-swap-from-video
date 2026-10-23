@@ -92,7 +92,7 @@ When running main.py, you can pass the following arguments to control how the fa
 - Easy access to Python and machine learning libraries  
 - Seamless cloud-based workflow with no local setup required  
 - Simple sharing and collaboration via links  
-
+<!-- 
 
 ## Usage For Docker 
 
@@ -141,7 +141,7 @@ docker rm face_swap1
 * `--fps` controls the frame rate of the output video.
 * You can rename outputs as needed via `--output`.
 
-
+ -->
 ---
 
 ## Credit 
