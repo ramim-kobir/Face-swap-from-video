@@ -100,7 +100,7 @@ When running main.py, you can pass the following arguments to control how the fa
 - Seamless cloud-based workflow with no local setup required  
 - Simple sharing and collaboration via links  
 
-
+<!--
 ## Usage For Docker 
 
 1. **Install git:**
@@ -148,14 +148,14 @@ docker rm face_swap1
 * `--fps` controls the frame rate of the output video.
 * You can rename outputs as needed via `--output`.
 
-
+-->
 ---
 
 ## Credit 
 
 ### used technologies 
-[Insightface](https://github.com/deepinsight/insightface)
-[FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [Insightface](https://github.com/deepinsight/insightface)
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
 ### used content for demo
 - source image -> https://www.pexels.com/photo/woman-taking-selfie-458766
