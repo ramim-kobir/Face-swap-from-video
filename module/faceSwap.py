@@ -93,7 +93,7 @@ class videoEditor :
         video_fps = cap.get(self.cv2.CAP_PROP_FPS)
         if video_fps < fps :
             cap.release()
-            raise Exception(f'Video fps({video_fps}) is greater than --fps({int(fps)})\ntry with --fps {int(video_fps)} or less .')
+            raise Exception(f'Video fps({video_fps}) is smaller than --fps({int(fps)})\ntry with --fps {int(video_fps)} or less .')
 
         if video_fps <= 0:
             cap.release()
