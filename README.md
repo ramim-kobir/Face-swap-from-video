@@ -27,7 +27,8 @@ https://github.com/user-attachments/assets/91ce520b-aa05-412e-8119-ff276954b40e
 https://github.com/user-attachments/assets/c0d901f8-4c70-43d0-ad12-bfa6f62b5a68
 ### demo tutorial
 https://github.com/user-attachments/assets/94ff976f-8236-4574-84c2-7ac94a3ffa63
-
+- Note: I changed my username and updated the notebook
+   - You do not need to change it manually.
 
 
 
